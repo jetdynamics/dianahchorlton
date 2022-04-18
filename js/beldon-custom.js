@@ -122,7 +122,7 @@ $(function () {
   // --------------------------------------------- //
   // KBW-Countdown Start
   // --------------------------------------------- //
-  $('#countdown').countdown({ until: $.countdown.UTCDate(+10, 2022, 5, 21), format: 'D' })
+  $('#countdown').countdown({ until: $.countdown.UTCDate(+30, 2022, 4, 18), format: 'D' })
   // --------------------------------------------- //
   // KBW-Countdown End
   // --------------------------------------------- //
